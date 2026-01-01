@@ -1,0 +1,2 @@
+ $ nix-env -iA cachix -f https://cachix.org/api/v1/install
+$ nix profile install --accept-flake-config nixpkgs#cachix
