@@ -6,4 +6,3 @@ export PATH=$(rakubrew home)/shims:$PATH
 fish_add_path -g /path/where/rakubrew/is
 fish_add_path -g (rakubrew home)/sh
 
-
