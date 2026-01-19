@@ -1,4 +1,4 @@
-namespace Algolia;
+namespace Algolia; 
 
 using System;
 using System.Collections.Generic;
