@@ -25,7 +25,7 @@ done
 set `du -s usr/share/man`
 szman=$1+1
 
-files=./httpd-root
+files=./httpd-root 
 cd ${TEMPDIR}/..
 find ${files} -type d -exec chmod og+rx {} \;
 chmod -R go+r ${files}
