@@ -1,7 +1,7 @@
 % =========================
 % PROJECT METADATA
 % =========================
-
+ 
 project(name('aura-core')).
 project(version('0.1.0')).
 project(language(prolog)).
