@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?metadataRepository version='1.2.0'?>
-<repository name='org.eclipse.tm4e.repository' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1'>
+<repository name='org.eclipse.tm4e.aura-core' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1'>
   <properties size='2'>
     <property name='p2.timestamp' value='1678823598216'/>
     <property name='p2.compressed' value='true'/>
-  </properties>
+  </properties> 
   <units size='39'>
     <unit id='org.eclipse.tm4e.feature.feature.group' version='0.5.3.202303141648' singleton='false'>
       <update id='org.eclipse.tm4e.feature.feature.group' range='[0.0.0,0.5.3.202303141648)' severity='0'/>
